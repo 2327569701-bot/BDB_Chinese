@@ -6,6 +6,10 @@
 
 **[BDB 官方项目](https://github.com/CobaltWolf/Bluedog-Design-Bureau) · [BDB 官方下载](https://github.com/CobaltWolf/Bluedog-Design-Bureau/releases)**
 
+## 下载汉化包
+
+前往 **[Releases（发行版）](https://github.com/2327569701-bot/BDB_Chinese/releases/latest)**，下载 **BDB_Chinese.zip**。压缩包已整理好安装目录，只包含本项目的汉化文件和说明。
+
 ## 汉化内容
 
 - 零件名称、制造商与零件说明，已完成所依据版本中 1,292 条完整简介的翻译。
@@ -22,7 +26,7 @@
 本汉化依据 **BDB v1.14.0** 制作，适用于 **KSP 1**。
 
 1. 按照 [BDB 官方说明](https://github.com/CobaltWolf/Bluedog-Design-Bureau) 安装 BDB 及其所需依赖。
-2. 下载本仓库：点击页面上的 **Code → Download ZIP**，然后解压。
+2. 从 **[最新发行版](https://github.com/2327569701-bot/BDB_Chinese/releases/latest)** 下载 **BDB_Chinese.zip**，然后解压。
 3. 退出游戏，将解压得到的 **BDB_Chinese** 文件夹复制到游戏的 **GameData** 文件夹中。
 4. 将游戏语言设为简体中文，再启动游戏。
 
