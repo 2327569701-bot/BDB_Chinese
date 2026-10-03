@@ -1,0 +1,23 @@
+# Publish only the README and installable localization patches.
+/*
+!/.gitignore
+!/README.md
+!/BDB_Chinese/
+/BDB_Chinese/*
+!/BDB_Chinese/*.cfg
+!/BDB_Chinese/Parts/
+!/BDB_Chinese/Science/
+!/BDB_Chinese/UI/
+!/BDB_Chinese/Localization/
+/BDB_Chinese/Parts/**
+/BDB_Chinese/Science/**
+/BDB_Chinese/UI/**
+/BDB_Chinese/Localization/**
+!/BDB_Chinese/Parts/**/
+!/BDB_Chinese/Science/**/
+!/BDB_Chinese/UI/**/
+!/BDB_Chinese/Localization/**/
+!/BDB_Chinese/Parts/**/*.cfg
+!/BDB_Chinese/Science/**/*.cfg
+!/BDB_Chinese/UI/**/*.cfg
+!/BDB_Chinese/Localization/**/*.cfg
