@@ -21,3 +21,6 @@
 !/BDB_Chinese/Science/**/*.cfg
 !/BDB_Chinese/UI/**/*.cfg
 !/BDB_Chinese/Localization/**/*.cfg
+!/BDB_Chinese/Plugins/
+/BDB_Chinese/Plugins/*
+!/BDB_Chinese/Plugins/BDBChinese.SAF.dll
